@@ -14,7 +14,7 @@
 <resources>
     <string name="app_name">CastRemoteDisplay NDK</string>
     <string name="cast">Cast</string>
-    <string name="app_id">YOUR_APP_ID</string>
+    <string name="app_id">AE86F1D4</string>
     <string name="gl_error">%1$s - GL error 0x %2$s at %3$s</string>
     <string name="init_error">Error starting the remote display</string>
 </resources>
